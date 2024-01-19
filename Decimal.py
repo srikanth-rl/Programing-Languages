@@ -1,0 +1,6 @@
+print('Binary String to Decimal Integer:',int('110111101100010011000101110110100000011101000101011001000011011000001100011110011010010011000000000',2))
+print('Hexadecimal to Decimal Integer:',int('f5',16))
+print('Octal to Decimal Integer:',int('20',8))
+print('Decimal to Binary to String:',bin(20)[2:])
+print('Decimal to HexaDecimal:',hex(15)[2:])
+print('Decimal to Octal:',oct(15)[2:])
